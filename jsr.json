@@ -1,0 +1,5 @@
+{
+  "name": "@nss/one-true-date",
+  "version": "0.1.3",
+  "exports": "./index.ts"
+}
